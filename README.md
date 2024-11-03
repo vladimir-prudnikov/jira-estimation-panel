@@ -7,8 +7,8 @@ As a simple alternative to poker planning, it keeps estimates on each issue, hel
 ## Documentation
 For more information, visit the links below:
 
-- [Terms of Service](https://username.github.io/repository-name/terms.html)
-- [Privacy Policy](https://username.github.io/repository-name/privacy.html)
+- [Terms of Service](https://github.com/vladimir-prudnikov/jira-estimation-panel/blob/main/terms.html)
+- [Privacy Policy](https://github.com/vladimir-prudnikov/jira-estimation-panel/blob/main/privacy.html)
 
 ## Installation
 1. Download or install the plugin from the Atlassian Marketplace.

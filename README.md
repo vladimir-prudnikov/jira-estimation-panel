@@ -1,6 +1,3 @@
-# jira-estimation-panel
-Jira plugin for estimating Issues right from the Issue context panel
-
 # Estimation Panel for Jira
 
 Estimation Panel for Jira is the essential tool for estimation and planning.  

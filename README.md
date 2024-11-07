@@ -1,10 +1,20 @@
 # Estimation Panel for Jira
 
-Estimation Panel for Jira is the essential tool for estimation and planning.  
-It lets teams quickly add estimates directly to Jira tickets, making it ideal for offline estimations.  
-As a simple alternative to poker planning, it keeps estimates on each issue, helping teams stay organized and aligned.
+A simple Estimation Panel for Jira, ideal for offline estimates as an alternative to Poker Planning.
 
-## Documentation
+Estimation Panel offers a simple alternative to Planning Poker. Teams can put estimates directly on the issue side panel, with support for customizable scales like Fibonacci, T-shirt sizes, etc., and with no need to set up planning sessions.
+
+## Teams put estimates directly on the issue side panel
+Teams can estimate using customizable scales like Fibonacci and T-shirt sizes. See who’s voted and whose estimates are pending, enhancing visibility during estimation.
+![image](https://github.com/user-attachments/assets/027c21f9-a816-46d5-b159-6aa45ca1d635)
+## Finalize the estimate with your team
+Finalize the estimate with your team. Review each vote and save the final estimate with one click. Choose the majority or find a compromise for accurate, team-driven decisions.
+![image](https://github.com/user-attachments/assets/7deb56e1-d34d-4647-8cb4-bf862dad1600)
+## Estimation Settings
+Customize estimation scales, assign estimators, and designate moderators. Apply settings globally or tailor them at the Jira project level.
+![image](https://github.com/user-attachments/assets/5f3c4c84-621a-42ca-b938-d6688855b4bc)
+
+## More
 For more information, visit the links below:
 
 - [Terms of Service](https://github.com/vladimir-prudnikov/jira-estimation-panel/blob/main/terms.html)
@@ -15,4 +25,4 @@ For more information, visit the links below:
 2. Follow the configuration steps to set it up with your Jira instance.
 
 ## Support
-For any questions or support, please reach out to us at [your-email@example.com].
+For any questions or support, please reach out to us at vova.prudnikov.jira@gmail.com.

@@ -17,8 +17,8 @@ Customize estimation scales, assign estimators, and designate moderators. Apply 
 ## More
 For more information, visit the links below:
 
-- [Terms of Service](https://github.com/vladimir-prudnikov/jira-estimation-panel/blob/main/terms.html)
-- [Privacy Policy](https://github.com/vladimir-prudnikov/jira-estimation-panel/blob/main/privacy.html)
+- [Terms of Service](https://github.com/vladimir-prudnikov/jira-estimation-panel/terms.html)
+- [Privacy Policy](https://github.com/vladimir-prudnikov/jira-estimation-panel/privacy.html)
 
 ## Installation
 1. Download or install the plugin from the Atlassian Marketplace.
